@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConTest",
+            "request": "launch",
+            "mainClass": "Model.ConTest",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmBusiness",
+            "request": "launch",
+            "mainClass": "View.frmBusiness",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmCities",
+            "request": "launch",
+            "mainClass": "View.frmCities",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmDepartament",
+            "request": "launch",
+            "mainClass": "View.frmDepartament",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmEmployed",
+            "request": "launch",
+            "mainClass": "View.frmEmployed",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmGender",
+            "request": "launch",
+            "mainClass": "View.frmGender",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmHome",
+            "request": "launch",
+            "mainClass": "View.frmHome",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmReference",
+            "request": "launch",
+            "mainClass": "View.frmReference",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmStatusMarital",
+            "request": "launch",
+            "mainClass": "View.frmStatusMarital",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmTypeDocument",
+            "request": "launch",
+            "mainClass": "View.frmTypeDocument",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmTypeReference",
+            "request": "launch",
+            "mainClass": "View.frmTypeReference",
+            "projectName": "ManagementCV_41db047a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ResumeManagement",
+            "request": "launch",
+            "mainClass": "resumemanagement.ResumeManagement",
+            "projectName": "ManagementCV_41db047a"
+        }
+    ]
+}
