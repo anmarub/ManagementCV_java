@@ -17,7 +17,7 @@ public class clsBusiness {
     private String address;
     private String city;
 
-    //Constructor de la clase Business
+    //Constructor de la clase Business con sus atributos
 
     public clsBusiness(int idBusiness, String nit, String nameBusiness, String address, String city) {
         this.idBusiness = idBusiness;
